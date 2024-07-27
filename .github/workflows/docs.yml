@@ -1,0 +1,44 @@
+name: Docs
+on:
+  push:
+    paths:
+      - '.github/workflows/docs.yml'
+      - 'docs/**'
+      - 'Makefile'
+      # referenced external files
+      - 'CHANGELOG.md'
+jobs:
+  job_build:
+    name: Build
+    runs-on: ubuntu-latest
+    env:
+      UV_SYSTEM_PYTHON: 1
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - name: Install dependencies
+        run: |
+          python -m pip install -U uv
+          make install-docs
+      - run: |
+          make docs-build
+  job_deploy:
+    # deploy only on the "main" branch
+    if: ${{ github.ref == 'refs/heads/main' }}
+    name: Deploy
+    runs-on: ubuntu-latest
+    env:
+      UV_SYSTEM_PYTHON: 1
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - name: Install dependencies
+        run: |
+          python -m pip install -U uv
+          make install-docs
+      - run: |
+          make docs-deploy
