@@ -1,0 +1,7 @@
+mkdocs-material==9.*
+
+# mkdocs plugins
+mkdocs-exclude
+mkdocs-git-revision-date-localized-plugin
+mkdocs-minify-plugin
+mkdocs-redirects
