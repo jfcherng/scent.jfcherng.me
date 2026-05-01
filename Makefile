@@ -4,32 +4,32 @@ UV_INSTALL_FLAGS :=
 all:
 
 .PHONY: install
-install: install-docs
+install:
+	uv sync
 
-.PHONY: install-docs
-install-docs:
-	uv pip install $(UV_INSTALL_FLAGS) -r requirements.txt
-
-.PHONY: pip-compile
-pip-compile:
-	uv pip compile --upgrade requirements.in -o requirements.txt
+.PHONY: install-upgrade
+install-upgrade:
+	uv sync --upgrade
 
 # ---- #
 # docs #
 # ---- #
 
-.PHONY: docs-serve
-docs-serve:
-	mkdocs serve
+.PHONY: serve
+serve:
+	DISABLE_MKDOCS_2_WARNING=true \
+	uv run mkdocs serve
 
-.PHONY: docs-build
-docs-build: docs-clean
-	mkdocs build
+.PHONY: build
+build: clean
+	DISABLE_MKDOCS_2_WARNING=true \
+	uv run mkdocs build
 
-.PHONY: docs-deploy
-docs-deploy:
-	mkdocs gh-deploy --force
+.PHONY: deploy
+deploy:
+	DISABLE_MKDOCS_2_WARNING=true \
+	uv run mkdocs gh-deploy --force
 
-.PHONY: docs-clean
-docs-clean:
+.PHONY: clean
+clean:
 	rm -rf site/

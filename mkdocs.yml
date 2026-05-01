@@ -9,7 +9,7 @@ repo_name: scent.jfcherng.me
 repo_url: https://github.com/jfcherng/scent.jfcherng.me
 # empty to disable the edit button
 edit_uri: edit/main/src/
-copyright: Copyright &copy; 2024 Jack Cherng (jfcherng)
+copyright: Copyright &copy; 2026 Jack Cherng (jfcherng)
 
 docs_dir: src
 site_dir: site
@@ -17,6 +17,7 @@ site_dir: site
 nav:
   - '首頁': 'index.md'
   - '正／仿貨香水辨識':
+    # - '我認為有疑慮的賣場': doubtful-sellers
     - '通用規則': 'brands/general.md'
     - 'Le Labo': 'brands/le-labo.md'
     - 'Tom Ford':
@@ -27,7 +28,8 @@ nav:
         - 'Cafe Rose (2023)': 'brands/tom-ford/specific/cafe-rose-2023.md'
         - 'Grey Vetiver': 'brands/tom-ford/specific/grey-vetiver.md'
         - 'Oud Minerale (2023)': 'brands/tom-ford/specific/oud-minerale-2023.md'
-  # - '我認為有疑慮的賣場': doubtful-sellers
+  - 香評收集:
+    - 'Criminal Elements (犯罪分子)': 'reviews/criminal-elements'
 
 ###############################################################
 # http://squidfunk.github.io/mkdocs-material/getting-started/ #

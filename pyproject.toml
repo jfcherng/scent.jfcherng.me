@@ -1,0 +1,19 @@
+[project]
+name = "scent-jfcherng-me"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    # @see https://github.com/squidfunk/mkdocs-material/issues/8478
+    'click<=8.2.0',
+
+    'mkdocs<2',
+    'mkdocs-material==9.*',
+
+    # mkdocs plugins
+    'mkdocs-exclude',
+    'mkdocs-git-revision-date-localized-plugin',
+    'mkdocs-minify-plugin',
+    'mkdocs-redirects',
+]
