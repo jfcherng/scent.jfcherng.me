@@ -1,18 +1,11 @@
 # 說明
 
-記錄一些網路上已知的資訊結合手邊的實品，並不會有太多的原創內容，僅供參考。
-
 ## 關於我
 
 <img alt="avatar" style="border-radius:50%; max-width: 256px"
   src="https://avatars.githubusercontent.com/u/6594915">
 
 Hi 我是 Jack ，一個喜歡香水的竹科工程師 🤠，網路上常用的 ID 是 `jfcherng` 。
-
-小弟有香水試香、正裝與分享香的小賣場，歡迎來逛逛：
-
-- 蝦皮購物： https://shopee.tw/jfcherng
-- 旋轉拍賣： https://tw.carousell.com/u/jfcherng/
 
 ## 關於仿貨
 
@@ -21,13 +14,15 @@ Hi 我是 Jack ，一個喜歡香水的竹科工程師 🤠，網路上常用的
 
 ## 聯絡方式
 
+- 蝦皮購物： https://shopee.tw/jfcherng
+- 旋轉拍賣： https://tw.carousell.com/u/jfcherng/
 
 <table>
   <thead>
     <tr>
       <th>Instagram</th>
       <th>LINE</th>
-      <th>LINE 群組</th>
+      <th>LINE 團購群組</th>
     </tr>
   </thead>
   <tbody>
@@ -68,14 +63,10 @@ Hi 我是 Jack ，一個喜歡香水的竹科工程師 🤠，網路上常用的
 
 網址： https://www.checkfresh.com
 
-用香水的批號來查詢它的製造日期。
+用香水的批號來查詢它的製造日期。但感覺資料庫好像比較舊，有些新的查不到，例如 F 開頭批號的 Creed 。
 
 !!! info "小知識"
     台灣法律規定必須標示保存期限，但我認為香水本身是沒有所謂的「保存期限」的。
     因為香水本身幾乎都是酒精，微生物無法生存，也就不會「壞掉」，只會因為保存不當而變質。
     （連食鹽都得標保存期限，難道是壞了嗎？顯然不是，它一直都是氯化鈉。）
-
-## 一起來寫
-
-如果您有興趣共同編輯這系列的文章，或是想要提供識別方式，歡迎與我聯絡。
-如果您熟悉 GitHub 的話，直接發起 pull request 也可以。
+    當然，如果你在意的話，那還是找 "新鮮" 的。
