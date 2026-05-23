@@ -29,7 +29,9 @@ nav:
         - 'Grey Vetiver': 'brands/tom-ford/specific/grey-vetiver.md'
         - 'Oud Minerale (2023)': 'brands/tom-ford/specific/oud-minerale-2023.md'
   - 香評收集:
-    - 'Criminal Elements (犯罪分子)': 'reviews/criminal-elements'
+    - 'Criminal Elements (犯罪分子)': 'reviews/criminal-elements/index.md'
+  - 香水列表:
+    - '復寫實驗室': 'intros/duplication-laboratory/index.md'
 
 ###############################################################
 # http://squidfunk.github.io/mkdocs-material/getting-started/ #

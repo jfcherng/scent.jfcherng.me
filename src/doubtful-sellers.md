@@ -31,7 +31,7 @@
 - 蝦皮購物： [Mavis Shoppinp](https://shopee.tw/s222755100)
 - 旋轉拍賣： [nunu8820](https://tw.carousell.com/u/nunu8820/)
 
-![s222755100-fake-01](../_assets/images/general/s222755100-fake-01.png)
+![s222755100-fake-01](_assets/images/general/s222755100-fake-01.png)
 
 這間有把營業登記放上去，根據[蝦皮的規定](https://seller.shopee.tw/edu/article/19177)其月營業額在十萬元以上。
 
@@ -61,7 +61,7 @@
 - 地址： 臺中市北區六合里篤行路121號12樓
 - 統一編號： [80074963](https://www.twincn.com/item.aspx?no=80074963)
 
-![sunny0510-fake-01](../_assets/images/general/sunny0510-fake-01.jpg)
+![sunny0510-fake-01](_assets/images/general/sunny0510-fake-01.jpg)
 
 上圖的可疑之處：
 
@@ -69,12 +69,12 @@
 - 右下角的 Le Labo Vanille 44 100 ML = $4880 異常便宜（官方定價約 $17000 嘿嘿不好意思今年又漲價囉）
 - 我是不相信「源頭工廠外流」這種鬼話的。
 - 查看賣場一星評價，有人說是仿貨。
-  ![sunny0510-fake-02](../_assets/images/general/sunny0510-fake-02.png)
+  ![sunny0510-fake-02](_assets/images/general/sunny0510-fake-02.png)
 
 其實以前她的賣場圖片都是那種仿貨源頭的風格，現在把背景的部分移除了，只留下物品的部分。
 但我們仍然可以從過往買家的評價（或是賣家的 IG，上面的圖片都沒改過）看到當時商品所使用的圖片。
 
-![sunny0510-fake-03](../_assets/images/general/sunny0510-fake-03.jpg)
+![sunny0510-fake-03](_assets/images/general/sunny0510-fake-03.jpg)
 
 ## 蝦皮購物 4
 
@@ -119,19 +119,19 @@
 如果您覺得 4000 多元能買到 100 ML 的 Le Labo 城市限定香水，我建議再想想。
 購證、專櫃提袋都是意義不大的證明，想要的話（包含仿香本體）都能非常便宜買到或仿冒。
 
-![susu0520shops-fake-01](../_assets/images/general/susu0520shops-fake-01.png)
+![susu0520shops-fake-01](_assets/images/general/susu0520shops-fake-01.png)
 
 其中一筆帶有照片的歷史評價如下。
 花 $2200 元買到有塑膠包膜、標籤地點是 Moscow 的 Le Labo ，這真的很不酷 ☹️
 
-![susu0520shops-fake-02](../_assets/images/general/susu0520shops-fake-02.jpg)
+![susu0520shops-fake-02](_assets/images/general/susu0520shops-fake-02.jpg)
 
 同場加映：買家覺得不是正貨，以及該賣家的回應。
 
 !!! info "備註"
     潘海利根的麻雀（知更鳥）是絕版香水。如果這個價格是正貨，那他真的是佛心來著。
 
-![susu0520shops-fake-03](../_assets/images/general/susu0520shops-fake-03.png)
+![susu0520shops-fake-03](_assets/images/general/susu0520shops-fake-03.png)
 
 ## 旋轉拍賣 3
 
@@ -144,4 +144,4 @@
 - [Tom Ford 神秘東方的蠟燭](https://tw.carousell.com/p/1278200822/)：剛好我有一支專櫃正品，顏色和他的完全不一樣。
   當然，這支蠟燭沒有什麼因為產地不一樣或是新版舊版，所以顏色不一樣這種事情。
 
-    ![fashion_icon888-fake-01](../_assets/images/general/fashion_icon888-fake-01.jpg)
+    ![fashion_icon888-fake-01](_assets/images/general/fashion_icon888-fake-01.jpg)
