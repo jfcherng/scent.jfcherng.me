@@ -2,6 +2,28 @@
 title: Duplication Laboratory (復寫實驗室)
 ---
 
+## 聖禮拜堂 （復刻 愛慕 蒂亞 男士 Amouage Dia Man）
+
+📜主理人如是說
+
+> 尚無介紹
+
+## 禁閉玫瑰 （復刻 初版 Byredo 無人之境 Rose Of No Man's Land）
+
+📜主理人如是說
+
+> 尚無介紹
+
+## 焚風 香精 24% （復刻 Fragrance Du Bois 杜木之香 Sahraa 荒漠薔薇）
+
+📜主理人如是說
+
+> 尚無介紹
+
+## 焚風 精粹 40% （復刻 Fragrance Du Bois 杜木之香 Sahraa 荒漠薔薇）
+
+使用 金屬標籤 + 水晶瓶。
+
 ## Afterstorm 暴雨後 23% （復刻 初版 馥馬爾 法國情人 Frederic Malle French Lover; 加濃）
 
 - 前調：白松香、香辛料
@@ -89,6 +111,16 @@ title: Duplication Laboratory (復寫實驗室)
 > 它們各自沉默地站著，互不干擾，卻在瓶中構成了柏林十月的某個清晨。
 >
 > 含弗吉尼亞雪松、多種高品質香檸檬精油、西西里檸檬、海地香根草、高倍甜橙油、香櫞心油、多種生薑提純物、海地香根草、癒創木心油、大西洋雪松、保加利亞玫瑰、埃及小花茉莉、波斯白檸檬、大量 Hedione HC 、多種高品質龍涎、白麝香
+
+## Breeze of Turin 都靈微風 v2 23% （復刻 Xerjoff 都靈21 Torino21）
+
+- 前調：薄荷、檸檬、羅勒、百里香
+- 中調：黑加侖、薰衣草、迷迭香、茉莉
+- 後調：檸檬馬鞭草、麝香
+
+📜主理人如是說
+
+> 相較於 v1 而言，v2 降低了水生感。
 
 ## Breeze of Turin 都靈微風 23% （復刻 Xerjoff 都靈21 Torino21）
 
