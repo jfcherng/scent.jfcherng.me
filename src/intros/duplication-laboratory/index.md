@@ -2,6 +2,20 @@
 title: Duplication Laboratory (復寫實驗室)
 ---
 
+## 昨夜西普 精粹 32% （復刻 Roja 非凡西普 Chypré Extraordinaire; 加料版）
+
+- 前調：香檸檬、醛
+- 中調：五月玫瑰、塔伊夫玫瑰、茉莉、桃子、依蘭、晚香玉、天竺葵、天芥菜、橙花、紫羅蘭
+- 後調：Vintage 1970s 橡木苔、邁索爾檀香、黑龍涎酊劑、勞丹脂、皮革、麝貓香、雪松、黑醋栗、鳶尾、孜然、琥珀、廣藿香、零陵香豆、香草、公丁香、安息香、麝香
+
+## 馬術手套 精粹 32% （復刻 初版 Byredo 馬鞍匠 Sellier）
+
+暫無介紹
+
+## 馬爾地夫日落 22% （復刻 LV 午後之泳 Afternoon Swim）
+
+暫無介紹
+
 ## Sunset In Portofino 波濤菲諾日落 （復刻 Tom Ford 暖陽橙花 頂級款 Neroli Portofino Forte）
 
 復刻的不是暖陽橙花香精版，是停產的 Tom Ford Neroli Portofino Forte EDP 。
@@ -27,9 +41,9 @@ title: Duplication Laboratory (復寫實驗室)
 
 ## Paradise 極樂天堂 35% 精粹 （復刻 Kilian 天使稅百樂廷 Angel's Share Paradis）
 
-- 前調：樹莓 干邑白蘭地
-- 中調：玫瑰 肉桂
-- 後調：零陵香豆 橡木苔 白蘭地 黃葵
+- 前調：樹莓、干邑白蘭地
+- 中調：玫瑰、肉桂
+- 後調：零陵香豆、橡木苔、白蘭地、黃葵
 
 📜主理人如是說
 
@@ -567,7 +581,7 @@ title: Duplication Laboratory (復寫實驗室)
 
 - 香調：馬斯喀特香草、馬達加斯加香草、阿曼 Hojari 乳香、邁索爾檀香、零陵香豆、索馬利亞灰龍涎
 
-鹹甜鹹甜的乳香香草油，十分美妙，我似乎還聞到了一點焚香感。香草控極度推薦。
+鹹甜的乳香香草油，十分美妙，我似乎還聞到了一點焚香感。香草控極度推薦。
 
 📜主理人如是說
 
